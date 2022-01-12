@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PavelSSCX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ @ossdao-org•AIRDROP-0xA2a7C90eF757C15D6a074Ff869b3e231432Ca3a7
-- 📫 How to reach me ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ 
+- 📫 
 
 <!---
 PavelSSCX/PavelSSCX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
