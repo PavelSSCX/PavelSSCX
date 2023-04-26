@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavelSSCX
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👀 
+- 🌱 
 - 💞️ 
 - 📫 
 
